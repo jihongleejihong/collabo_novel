@@ -2,7 +2,7 @@
 
 ## 목차
 
-- 1장 멋쟁이 사자 수업을 듣고 있었던 내가
+- [1장 지난 생: 멋쟁이 사자 수업을 듣고 있었던 내가](https://github.com/jihongleejihong/collabo_novel/blob/1%EC%9E%A5/1%EC%9E%A5.md)
 - 2장 이번 생에선 진짜 사자가 되었다.
 - 3장 크르르
 - 4장 ...
