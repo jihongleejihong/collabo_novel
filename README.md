@@ -3,7 +3,7 @@
 ## 목차
 
 - [1장 지난 생: 멋쟁이 사자 수업을 듣고 있었던 내가](https://github.com/jihongleejihong/collabo_novel/blob/1%EC%9E%A5/1%EC%9E%A5.md)
-- [2장 이번 생에선 진짜 사자가 되었다.](https://github.com/jihongleejihong/collabo_novel/blob/2%EC%9E%A5-hyperlink/2%EC%9E%A5.md)
+- [2장 이번 생에선 진짜 사자가 되었다.]([https://github.com/jihongleejihong/collabo_novel/blob/2%EC%9E%A5-hyperlink/2%EC%9E%A5.md](https://github.com/jihongleejihong/collabo_novel/blob/main/2%EC%9E%A5.md))
 - [3장 크르르](https://github.com/jihongleejihong/collabo_novel/blob/main/3%EC%9E%A5.md)
 - 4장 ...
 
